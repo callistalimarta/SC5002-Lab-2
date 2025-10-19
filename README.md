@@ -1,4 +1,4 @@
-# SC5002-Lab-2-Prediction-of-student-s-Math-results-
+# SC5002-Lab-2-
 For linear regression and ridge regression project, we used a dataset from the UC Irvine Machine Learning Repository: Student Performance - UCI Machine Learning Repository
 
 For the dataset, the file student-mat.csv is selected. It contains around 30 variables including student’s final Mathematics grades, making it ideal for multi-variable regression (refer to the website). The CSV file has a specific structure: all rows are segmented by “;” with the first row containing all variable names and the remaining rows containing corresponding data for each student.
